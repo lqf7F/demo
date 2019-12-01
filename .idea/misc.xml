@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/bootstrap-day01" />
+    <file type="web" url="file://$PROJECT_DIR$/bootstrap-day1" />
+    <file type="web" url="file://$PROJECT_DIR$/bootstrop-day01" />
+    <file type="web" url="file://$PROJECT_DIR$/bug1" />
+    <file type="web" url="file://$PROJECT_DIR$/cmfz" />
+    <file type="web" url="file://$PROJECT_DIR$/ems-springboot" />
+    <file type="web" url="file://$PROJECT_DIR$/es-day02" />
+    <file type="web" url="file://$PROJECT_DIR$/es-day03" />
+    <file type="web" url="file://$PROJECT_DIR$/lqf" />
+    <file type="web" url="file://$PROJECT_DIR$/poem" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-day01" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-day02" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-day03" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-day1" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-jq" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot-day01/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-day02/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-day03/pom.xml" />
+        <option value="$PROJECT_DIR$/bug1/pom.xml" />
+        <option value="$PROJECT_DIR$/bootstrap-day1/pom.xml" />
+        <option value="$PROJECT_DIR$/bootstrop-day01/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-day1/pom.xml" />
+        <option value="$PROJECT_DIR$/bootstrap-day01/pom.xml" />
+        <option value="$PROJECT_DIR$/bootstrap-day02/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-jq/pom.xml" />
+        <option value="$PROJECT_DIR$/es-day01/pom.xml" />
+        <option value="$PROJECT_DIR$/es-day02/pom.xml" />
+        <option value="$PROJECT_DIR$/es-day03/pom.xml" />
+        <option value="$PROJECT_DIR$/cmfz/pom.xml" />
+        <option value="$PROJECT_DIR$/es/pom.xml" />
+        <option value="$PROJECT_DIR$/lqf/pom.xml" />
+        <option value="$PROJECT_DIR$/poem/pom.xml" />
+        <option value="$PROJECT_DIR$/poi/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

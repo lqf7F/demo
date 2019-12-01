@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lqf:war">
+    <output-path>$PROJECT_DIR$/lqf/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>lqf</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="lqf.war">
+      <element id="artifact" artifact-name="lqf:war exploded" />
+    </root>
+  </artifact>
+</component>

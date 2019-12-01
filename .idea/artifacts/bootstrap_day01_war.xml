@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bootstrap-day01:war">
+    <output-path>$PROJECT_DIR$/bootstrap-day01/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>bootstrap-day01</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="bootstrap-day01.war">
+      <element id="artifact" artifact-name="bootstrap-day01:war exploded" />
+    </root>
+  </artifact>
+</component>

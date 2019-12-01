@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cmfz" />
+        <module name="demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bootstrap-day01" target="1.7" />
+      <module name="bootstrap-day02" target="1.5" />
+      <module name="bootstrap-day1" target="1.7" />
+      <module name="bootstrop-day01" target="1.7" />
+      <module name="bug1" target="1.7" />
+      <module name="cmfz" target="1.7" />
+      <module name="demo" target="1.8" />
+      <module name="es" target="1.8" />
+      <module name="es-day01" target="1.8" />
+      <module name="es-day02" target="1.7" />
+      <module name="es-day03" target="1.7" />
+      <module name="lqf" target="1.7" />
+      <module name="poem" target="1.8" />
+      <module name="poi" target="1.5" />
+      <module name="springboot-day01" target="1.7" />
+      <module name="springboot-day02" target="1.8" />
+      <module name="springboot-day03" target="1.7" />
+      <module name="springboot-day1" target="1.8" />
+      <module name="springboot-ems" target="1.7" />
+      <module name="springboot-jq" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cmfz" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="es" options="-parameters" />
+      <module name="es-day01" options="-parameters" />
+      <module name="es-day02" options="-parameters" />
+      <module name="lqf" options="-parameters" />
+      <module name="poem" options="-parameters" />
+      <module name="poi" options="" />
+    </option>
+  </component>
+</project>
